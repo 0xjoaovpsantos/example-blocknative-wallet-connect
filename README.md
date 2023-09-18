@@ -40,6 +40,8 @@
 
 ## 💡 About the project:
 
+Link to test: https://example-blocknative-wallet-connect.vercel.app/
+
 Study about wallet connect using the web3 onboard blocknative
 
 ## 🔥 Techs:
